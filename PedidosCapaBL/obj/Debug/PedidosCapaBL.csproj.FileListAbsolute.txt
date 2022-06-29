@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaBL\obj\Debug\PedidosCapaBL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaBL\bin\Debug\PedidosCapaBL.dll
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaBL\bin\Debug\PedidosCapaBL.pdb
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaBL\bin\Debug\ModeloDatos.dll
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaBL\bin\Debug\PedidosCapaDAL.dll
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaBL\bin\Debug\ModeloDatos.pdb
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaBL\bin\Debug\PedidosCapaDAL.pdb
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaBL\obj\Debug\PedidosCapaBL.csproj.CopyComplete
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaBL\obj\Debug\PedidosCapaBL.dll
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaBL\obj\Debug\PedidosCapaBL.pdb
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaBL\obj\Debug\PedidosCapaBL.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\carolinagraneropracticas\ModeloDatos\bin\Debug\ModeloDatos.dll
+C:\Users\hp\Documents\carolinagraneropracticas\ModeloDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\hp\Documents\carolinagraneropracticas\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\carolinagraneropracticas\ModeloDatos\obj\Debug\ModeloDatos.dll
+C:\Users\hp\Documents\carolinagraneropracticas\ModeloDatos\obj\Debug\ModeloDatos.pdb
+C:\Users\hp\Documents\carolinagraneropracticas\ModeloDatos\obj\Debug\ModeloDatos.csproj.AssemblyReference.cache

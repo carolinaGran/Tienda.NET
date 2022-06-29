@@ -1,0 +1,9 @@
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaDAL\obj\Debug\PedidosCapaDAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaDAL\bin\Debug\PedidosCapaDAL.dll
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaDAL\bin\Debug\PedidosCapaDAL.pdb
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaDAL\bin\Debug\ModeloDatos.dll
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaDAL\bin\Debug\ModeloDatos.pdb
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaDAL\obj\Debug\PedidosCapaDAL.csproj.CopyComplete
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaDAL\obj\Debug\PedidosCapaDAL.dll
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaDAL\obj\Debug\PedidosCapaDAL.pdb
+C:\Users\hp\Documents\carolinagraneropracticas\PedidosCapaDAL\obj\Debug\PedidosCapaDAL.csproj.AssemblyReference.cache
